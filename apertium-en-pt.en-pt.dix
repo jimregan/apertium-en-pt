@@ -3614,8 +3614,8 @@
 <e><p><l>village<s n="n"/></l><r>povo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>violence<s n="n"/></l><r>violência<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>virtue<s n="n"/></l><r>virtude<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>virus<s n="n"/></l><r>vírus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>virus<s n="n"/><s n="ND"/></l><r>vírus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>virus<s n="n"/></l><r>vírus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>virus<s n="n"/><s n="ND"/></l><r>vírus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>visa<s n="n"/></l><r>visto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>visibility<s n="n"/></l><r>visibilidade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>vision<s n="n"/></l><r>visão<s n="n"/><s n="f"/></r></p></e>
