@@ -535,7 +535,7 @@
 <e><p><l>afternoon<s n="n"/></l><r>tarde<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>age<s n="n"/></l><r>idade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>agency<s n="n"/></l><r>agência<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>agent<s n="n"/></l><r>agente<s n="n"/></r></p></e>
+<e><p><l>agent<s n="n"/></l><r>agente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>agreement<s n="n"/></l><r>acordo<s n="n"/></r></p></e>
 <e><p><l>contract<s n="n"/></l><r>contrato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>agriculturalist<s n="n"/></l><r>agricultor<s n="n"/></r></p></e>
@@ -568,7 +568,7 @@
 <e><p><l>analysis<s n="n"/></l><r>análise<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
 <e><p><l>analysis<s n="n"/></l><r>análise<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e><p><l>analysis<s n="n"/></l><r>análise<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>anarchist<s n="n"/></l><r>anarquista<s n="n"/></r></p></e>
+<e><p><l>anarchist<s n="n"/></l><r>anarquista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>ancestor<s n="n"/></l><r>antepassado<s n="n"/></r></p></e>
 <e><p><l>anecdote<s n="n"/></l><r>episódio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>angel<s n="n"/></l><r>anjo<s n="n"/></r></p></e>
@@ -597,7 +597,7 @@
 <e><p><l>apple<s n="n"/></l><r>quadra<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>appliance<s n="n"/></l><r>electrodoméstico<s n="n"/></r></p></e>
 <e><p><l>appliance<s n="n"/></l><r>eletrodoméstico<s n="n"/></r></p></e>
-<e><p><l>applicant<s n="n"/></l><r>solicitante<s n="n"/></r></p></e>
+<e><p><l>applicant<s n="n"/></l><r>solicitante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>application<s n="n"/></l><r>aplicação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>application<s n="n"/></l><r>solicitação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>application<s n="n"/></l><r>solicitude<s n="n"/><s n="f"/></r></p></e>
@@ -648,7 +648,7 @@
 <e><p><l>artifact<s n="n"/></l><r>artefacto<s n="n"/></r></p></e>
 <e><p><l>artifact<s n="n"/></l><r>artefato<s n="n"/></r></p></e>
 <e><p><l>artisan<s n="n"/></l><r>artesão<s n="n"/></r></p></e>
-<e><p><l>artist<s n="n"/></l><r>artista<s n="n"/></r></p></e>
+<e><p><l>artist<s n="n"/></l><r>artista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>aspect<s n="n"/></l><r>aspecto<s n="n"/></r></p></e>
 <e><p><l>ass<s n="n"/></l><r>asno<s n="n"/></r></p></e>
 <e><p><l>assault<s n="n"/></l><r>agressão<s n="n"/><s n="f"/></r></p></e>
@@ -657,18 +657,18 @@
 <e><p><l>assessment<s n="n"/></l><r>valoração<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>asset<s n="n"/></l><r>vantagem<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>assistance<s n="n"/></l><r>assistência<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>assistant<s n="n"/></l><r>assistente<s n="n"/></r></p></e>
+<e><p><l>assistant<s n="n"/></l><r>assistente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>association<s n="n"/></l><r>associação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>assumption<s n="n"/></l><r>suposição<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>astronaut<s n="n"/></l><r>astronauta<s n="n"/></r></p></e>
+<e><p><l>astronaut<s n="n"/></l><r>astronauta<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>astronomer<s n="n"/></l><r>astrónomo<s n="n"/></r></p></e>
 <e><p><l>astronomer<s n="n"/></l><r>astrônomo<s n="n"/></r></p></e>
 <e><p><l>asylum<s n="n"/></l><r>asilo<s n="n"/></r></p></e>
-<e><p><l>athlete<s n="n"/></l><r>atleta<s n="n"/></r></p></e>
+<e><p><l>athlete<s n="n"/></l><r>atleta<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>athletics<s n="n"/></l><r>atletismo<s n="n"/></r></p></e>
 <e><p><l>attack<s n="n"/></l><r>atentado<s n="n"/></r></p></e>
 <e><p><l>attack<s n="n"/></l><r>ataque<s n="n"/></r></p></e>
-<e><p><l>attacker<s n="n"/></l><r>atacante<s n="n"/></r></p></e>
+<e><p><l>attacker<s n="n"/></l><r>atacante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>attainment<s n="n"/></l><r>lucro<s n="n"/></r></p></e>
 <e><p><l>attempt<s n="n"/></l><r>atentado<s n="n"/></r></p></e>
 <e><p><l>attempt<s n="n"/></l><r>tentativa<s n="n"/><s n="f"/></r></p></e>
@@ -822,7 +822,7 @@
 <e><p><l>breath<s n="n"/></l><r>respiração<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>breathing<s n="n"/></l><r>respiração<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>brick<s n="n"/></l><r>tijolo<s n="n"/></r></p></e>
-<e><p><l>bricklayer<s n="n"/></l><r>pedreiro<s n="n"/></r></p></e>
+<e><p><l>bricklayer<s n="n"/></l><r>pedreiro<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>bridegroom<s n="n"/></l><r>namorado<s n="n"/></r></p></e>
 <e><p><l>bridegroom<s n="n"/></l><r>noivo<s n="n"/></r></p></e>
 <e><p><l>bridge<s n="n"/></l><r>ponte<s n="n"/><s n="f"/></r></p></e>
@@ -856,7 +856,7 @@
 <e><p><l>calculation<s n="n"/></l><r>cálculo<s n="n"/></r></p></e>
 <e><p><l>calendar<s n="n"/></l><r>calendário<s n="n"/></r></p></e>
 <e><p><l>call<s n="n"/></l><r>apelo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>camera<s n="n"/></l><r>câmara<s n="n"/></r></p></e>
+<e><p><l>camera<s n="n"/></l><r>câmara<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>camera<s n="n"/></l><r>câmera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>camp<s n="n"/></l><r>acampamento<s n="n"/></r></p></e>
 <e><p><l>camp<s n="n"/></l><r>campo<s n="n"/></r></p></e>
@@ -1036,14 +1036,14 @@
 <e><p><l>cold<s n="n"/></l><r>frio<s n="n"/></r></p></e>
 <e><p><l>collaboration<s n="n"/></l><r>colaboração<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>collaborator<s n="n"/></l><r>colaborador<s n="n"/></r></p></e>
-<e><p><l>colleague<s n="n"/></l><r>colega<s n="n"/></r></p></e>
+<e><p><l>colleague<s n="n"/></l><r>colega<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>collection<s n="n"/></l><r>arrecadação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>collection<s n="n"/></l><r>cobrança<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>collection<s n="n"/></l><r>colecção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>collection<s n="n"/></l><r>coleção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>college<s n="n"/></l><r>universidade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>collision<s n="n"/></l><r>colisão<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>colonel<s n="n"/></l><r>coronel<s n="n"/></r></p></e>
+<e><p><l>colonel<s n="n"/></l><r>coronel<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>colour<s n="n"/></l><r>cor<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>column<s n="n"/></l><r>coluna<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>combination<s n="n"/></l><r>combinação<s n="n"/><s n="f"/></r></p></e>
@@ -1052,10 +1052,10 @@
 <e><p><l>comfort<s n="n"/></l><r>comodidade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>command<s n="n"/></l><r>ordem<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>command<s n="n"/></l><r>domínio<s n="n"/></r></p></e>
-<e><p><l>commander<s n="n"/></l><r>comandante<s n="n"/></r></p></e>
+<e><p><l>commander<s n="n"/></l><r>comandante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>commando<s n="n"/></l><r>comando<s n="n"/></r></p></e>
 <e><p><l>comment<s n="n"/></l><r>comentário<s n="n"/></r></p></e>
-<e><p><l>commentator<s n="n"/></l><r>comentarista<s n="n"/></r></p></e>
+<e><p><l>commentator<s n="n"/></l><r>comentarista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>commerce<s n="n"/></l><r>comércio<s n="n"/></r></p></e>
 <e><p><l>commercial<s n="n"/></l><r>anúncio<s n="n"/></r></p></e>
 <e><p><l>commissariat<s n="n"/></l><r>delegacia<s n="n"/><s n="f"/></r></p></e>
@@ -1073,7 +1073,7 @@
 <e><p><l>company<s n="n"/></l><r>empresa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>comparison<s n="n"/></l><r>comparação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>compassion<s n="n"/></l><r>compaixão<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>compatriot<s n="n"/></l><r>compatriota<s n="n"/></r></p></e>
+<e><p><l>compatriot<s n="n"/></l><r>compatriota<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>compensation<s n="n"/></l><r>indemnização<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>compensation<s n="n"/></l><r>indenização<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>competition<s n="n"/></l><r>competição<s n="n"/><s n="f"/></r></p></e>
@@ -1081,7 +1081,7 @@
 <e><p><l>competitor<s n="n"/></l><r>competidor<s n="n"/></r></p></e>
 <e><p><l>completion<s n="n"/></l><r>conclusão<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>complication<s n="n"/></l><r>complicação<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>component<s n="n"/></l><r>componente<s n="n"/></r></p></e>
+<e><p><l>component<s n="n"/></l><r>componente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>composer<s n="n"/></l><r>compositor<s n="n"/></r></p></e>
 <e><p><l>composition<s n="n"/></l><r>composição<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>compression<s n="n"/></l><r>compressão<s n="n"/><s n="f"/></r></p></e>
@@ -1154,7 +1154,7 @@
 <e><p><l>coordinator<s n="n"/></l><r>coordenador<s n="n"/></r></p></e>
 <e><p><l>copy<s n="n"/></l><r>cópia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>copyright<s n="n"/></l><r>copyright<s n="n"/></r></p></e>
-<e><p><l>coral<s n="n"/></l><r>coral<s n="n"/></r></p></e>
+<e><p><l>coral<s n="n"/></l><r>coral<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>core<s n="n"/></l><r>núcleo<s n="n"/></r></p></e>
 <e><p><l>corporation<s n="n"/></l><r>empresa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>corps<s n="n"/></l><r>corpo<s n="n"/></r></p></e>
@@ -1176,7 +1176,7 @@
 <e><p><l>coup<s n="n"/></l><r>golpe<s n="n"/></r></p></e>
 <e><p><l>couple<s n="n"/></l><r>casal<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>couple<s n="n"/></l><r>dupla<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>couple<s n="n"/></l><r>par<s n="n"/></r></p></e>
+<e><p><l>couple<s n="n"/></l><r>par<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>courage<s n="n"/></l><r>valor<s n="n"/></r></p></e>
 <e><p><l>course<s n="n"/></l><r>curso<s n="n"/></r></p></e>
 <e><p><l>court<s n="n"/></l><r>tribunal<s n="n"/></r></p></e>
@@ -1197,10 +1197,10 @@
 <e><p><l>credit<s n="n"/></l><r>crédito<s n="n"/></r></p></e>
 <e><p><l>creditor<s n="n"/></l><r>credor<s n="n"/></r></p></e>
 <e><p><l>crew<s n="n"/></l><r>tripulação<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>crewman<s n="n"/></l><r>tripulante<s n="n"/></r></p></e>
+<e><p><l>crewman<s n="n"/></l><r>tripulante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>crime<s n="n"/></l><r>delito<s n="n"/></r></p></e>
 <e><p><l>crime<s n="n"/></l><r>crime<s n="n"/></r></p></e>
-<e><p><l>criminal<s n="n"/></l><r>criminal<s n="n"/></r></p></e>
+<e><p><l>criminal<s n="n"/></l><r>criminal<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>criminality<s n="n"/></l><r>criminalidade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>crisis<s n="n"/></l><r>crise<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
 <e><p><l>crisis<s n="n"/></l><r>crise<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -1246,7 +1246,7 @@
 <e><p><l>day<s n="n"/></l><r>jornada<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dead<b/>person<s n="n"/></l><r>morte<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>deal<s n="n"/></l><r>trato<s n="n"/></r></p></e>
-<e><p><l>dealer<s n="n"/></l><r>comerciante<s n="n"/></r></p></e>
+<e><p><l>dealer<s n="n"/></l><r>comerciante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>death<s n="n"/></l><r>morte<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>debate<s n="n"/></l><r>debate<s n="n"/></r></p></e>
 <e><p><l>debt<s n="n"/></l><r>dívida<s n="n"/><s n="f"/></r></p></e>
@@ -1261,7 +1261,7 @@
 <e><p><l>decree<s n="n"/></l><r>decreto<s n="n"/></r></p></e>
 <e><p><l>deduction<s n="n"/></l><r>dedução<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>defeat<s n="n"/></l><r>derrota<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>defence<s n="n"/></l><r>defesa<s n="n"/></r></p></e>
+<e><p><l>defence<s n="n"/></l><r>defesa<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>deficit<s n="n"/></l><r>déficit<s n="n"/></r></p></e>
 <e><p><l>definition<s n="n"/></l><r>definição<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>degree<s n="n"/></l><r>título<s n="n"/></r></p></e>
@@ -1277,7 +1277,7 @@
 <e><p><l>demon<s n="n"/></l><r>demónio<s n="n"/></r></p></e>
 <e><p><l>demon<s n="n"/></l><r>demônio<s n="n"/></r></p></e>
 <e><p><l>demonstration<s n="n"/></l><r>manifestação<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>demonstrator<s n="n"/></l><r>manifestante<s n="n"/></r></p></e>
+<e><p><l>demonstrator<s n="n"/></l><r>manifestante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>density<s n="n"/></l><r>densidade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>department<s n="n"/></l><r>departamento<s n="n"/></r></p></e>
 <e><p><l>departure<s n="n"/></l><r>saída<s n="n"/><s n="f"/></r></p></e>
@@ -1301,8 +1301,8 @@
 <e><p><l>destroyer<s n="n"/></l><r>destruidor<s n="n"/></r></p></e>
 <e><p><l>destruction<s n="n"/></l><r>destruição<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>detail<s n="n"/></l><r>detalhe<s n="n"/></r></p></e>
-<e><p><l>detective<s n="n"/></l><r>detective<s n="n"/></r></p></e>
-<e><p><l>detective<s n="n"/></l><r>detetive<s n="n"/></r></p></e>
+<e><p><l>detective<s n="n"/></l><r>detective<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>detective<s n="n"/></l><r>detetive<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>detention<s n="n"/></l><r>detenção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>determination<s n="n"/></l><r>determinação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>development<s n="n"/></l><r>desenvolvimento<s n="n"/></r></p></e>
@@ -1444,7 +1444,7 @@
 <e><p><l>ease<s n="n"/></l><r>facilidade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>echo<s n="n"/></l><r>eco<s n="n"/></r></p></e>
 <e><p><l>economics<s n="n"/><s n="pl"/></l><r>economia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>economist<s n="n"/></l><r>economista<s n="n"/></r></p></e>
+<e><p><l>economist<s n="n"/></l><r>economista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>economy<s n="n"/></l><r>economia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ecstasy<s n="n"/></l><r>êxtase<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
 <e><p><l>ecstasy<s n="n"/></l><r>êxtase<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -1474,16 +1474,16 @@
 <e><p><l>embrace<s n="n"/></l><r>abraço<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>embryo<s n="n"/></l><r>embrião<s n="n"/></r></p></e>
 <e><p><l>emergency<s n="n"/></l><r>emergência<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>emigrant<s n="n"/></l><r>emigrante<s n="n"/></r></p></e>
+<e><p><l>emigrant<s n="n"/></l><r>emigrante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>emission<s n="n"/></l><r>emissão<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>emotion<s n="n"/></l><r>emoção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>empire<s n="n"/></l><r>império<s n="n"/></r></p></e>
 <e><p><l>employer<s n="n"/></l><r>empresário<s n="n"/></r></p></e>
 <e><p><l>employment<s n="n"/></l><r>emprego<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>employment<s n="n"/></l><r>ocupação<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>end<s n="n"/></l><r>final<s n="n"/></r></p></e>
+<e><p><l>end<s n="n"/></l><r>final<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>end<s n="n"/></l><r>fim<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>ending<s n="n"/></l><r>final<s n="n"/></r></p></e>
+<e><p><l>ending<s n="n"/></l><r>final<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>enemy<s n="n"/></l><r>inimigo<s n="n"/></r></p></e>
 <e><p><l>energy<s n="n"/></l><r>energia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>engagement<s n="n"/></l><r>compromisso<s n="n"/></r></p></e>
@@ -1494,7 +1494,7 @@
 <e><p><l>enquiry<s n="n"/></l><r>investigação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>enrichment<s n="n"/></l><r>enriquecimento<s n="n"/></r></p></e>
 <e><p><l>enterprise<s n="n"/></l><r>empresa<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>entertainer<s n="n"/></l><r>artista<s n="n"/></r></p></e>
+<e><p><l>entertainer<s n="n"/></l><r>artista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>enthusiasm<s n="n"/></l><r>entusiasmo<s n="n"/></r></p></e>
 <e><p><l>entity<s n="n"/></l><r>entidade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>entrance<s n="n"/></l><r>entrada<s n="n"/><s n="f"/></r></p></e>
@@ -1645,8 +1645,8 @@
 <e><p><l>file<s n="n"/></l><r>expediente<s n="n"/></r></p></e>
 <e><p><l>film<s n="n"/></l><r>filme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>film<s n="n"/></l><r>película<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>final<s n="n"/></l><r>final<s n="n"/></r></p></e>
-<e><p><l>finalist<s n="n"/></l><r>finalista<s n="n"/></r></p></e>
+<e><p><l>final<s n="n"/></l><r>final<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>finalist<s n="n"/></l><r>finalista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>finding<s n="n"/></l><r>descoberta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fine<s n="n"/></l><r>multa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>finger<s n="n"/></l><r>dedo<s n="n"/></r></p></e>
@@ -1685,7 +1685,7 @@
 <e><p><l>foolishness<s n="n"/><s n="sg"/></l><r>tontura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>foot<s n="n"/></l><r>pé<s n="n"/></r></p></e>
 <e><p><l>football<s n="n"/><s n="sg"/></l><r>futebol<s n="n"/></r></p></e>
-<e><p><l>footballer<s n="n"/></l><r>futebolista<s n="n"/></r></p></e>
+<e><p><l>footballer<s n="n"/></l><r>futebolista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>footprint<s n="n"/></l><r>impressão<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>footwear<s n="n"/></l><r>calçado<s n="n"/></r></p></e>
 <e><p><l>force<s n="n"/></l><r>força<s n="n"/><s n="f"/></r></p></e>
@@ -1728,7 +1728,7 @@
 <e><p><l>fund<s n="n"/></l><r>fundo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
 <e><p><l>fund<s n="n"/></l><r>fundo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>fund<s n="n"/></l><r>fundo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>fundamentalist<s n="n"/></l><r>fundamentalista<s n="n"/></r></p></e>
+<e><p><l>fundamentalist<s n="n"/></l><r>fundamentalista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>funding<s n="n"/></l><r>financiamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>funeral<s n="n"/></l><r>funeral<s n="n"/></r></p></e>
 <e><p><l>fur<s n="n"/></l><r>pele<s n="n"/><s n="f"/></r></p></e>
@@ -1755,7 +1755,7 @@
 <e><p><l>gender<s n="n"/></l><r>género<s n="n"/></r></p></e>
 <e><p><l>gender<s n="n"/></l><r>gênero<s n="n"/></r></p></e>
 <e><p><l>gene<s n="n"/></l><r>gene<s n="n"/></r></p></e>
-<e><p><l>general<s n="n"/></l><r>general<s n="n"/></r></p></e>
+<e><p><l>general<s n="n"/></l><r>general<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>generation<s n="n"/></l><r>geração<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>genius<s n="n"/></l><r>génio<s n="n"/></r></p></e>
 <e><p><l>genius<s n="n"/></l><r>gênio<s n="n"/></r></p></e>
@@ -1764,8 +1764,8 @@
 <e><p><l>gentleman<s n="n"/></l><r>senhor<s n="n"/></r></p></e>
 <e><p><l>gesture<s n="n"/></l><r>gesto<s n="n"/></r></p></e>
 <e><p><l>ghost<s n="n"/></l><r>fantasma<s n="n"/></r></p></e>
-<e><p><l>giant<s n="n"/></l><r>gigante<s n="n"/></r></p></e>
-<e><p><l>gift<s n="n"/></l><r>presente<s n="n"/></r></p></e>
+<e><p><l>giant<s n="n"/></l><r>gigante<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>gift<s n="n"/></l><r>presente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>gift<s n="n"/></l><r>dom<s n="n"/></r></p></e>
 <e><p><l>gig<s n="n"/></l><r>actuação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>girl<s n="n"/></l><r>criança<s n="n"/><s n="f"/></r></p></e>
@@ -1825,7 +1825,7 @@
 <e><p><l>grouping<s n="n"/></l><r>agrupação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>growth<s n="n"/></l><r>crescimento<s n="n"/></r></p></e>
 <e><p><l>guarantee<s n="n"/></l><r>aval<s n="n"/></r></p></e>
-<e><p><l>guard<s n="n"/></l><r>guarda<s n="n"/></r></p></e>
+<e><p><l>guard<s n="n"/></l><r>guarda<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>guess<s n="n"/></l><r>suposição<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>guest<s n="n"/></l><r>hóspede<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>guesthouse<s n="n"/></l><r>pensão<s n="n"/><s n="f"/></r></p></e>
@@ -1915,7 +1915,7 @@
 <e><p><l>hospital<s n="n"/></l><r>hospital<s n="n"/></r></p></e>
 <e><p><l>hospitalization<s n="n"/></l><r>hospitalização<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>host<s n="n"/></l><r>anfitrião<s n="n"/></r></p></e>
-<e><p><l>hostage<s n="n"/></l><r>refém<s n="n"/></r></p></e>
+<e><p><l>hostage<s n="n"/></l><r>refém<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>hostess<s n="n"/></l><r>hóspede<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>hostility<s n="n"/></l><r>hostilidade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hotel<s n="n"/></l><r>hotel<s n="n"/></r></p></e>
@@ -1925,7 +1925,7 @@
 <e><p><l>household<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>housing<s n="n"/></l><r>alojamento<s n="n"/></r></p></e>
 <e><p><l>humor<s n="n"/></l><r>humor<s n="n"/></r></p></e>
-<e><p><l>humorist<s n="n"/></l><r>humorista<s n="n"/></r></p></e>
+<e><p><l>humorist<s n="n"/></l><r>humorista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>humour<s n="n"/></l><r>humor<s n="n"/></r></p></e>
 <e><p><l>hundred<s n="n"/></l><r>centena<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hurricane<s n="n"/></l><r>furacão<s n="n"/></r></p></e>
@@ -1939,7 +1939,7 @@
 <e><p><l>idea<s n="n"/></l><r>idéia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>identification<s n="n"/></l><r>identificação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>identity<s n="n"/></l><r>identidade<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>idiot<s n="n"/></l><r>idiota<s n="n"/></r></p></e>
+<e><p><l>idiot<s n="n"/></l><r>idiota<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>idol<s n="n"/></l><r>ídolo<s n="n"/></r></p></e>
 <e><p><l>ignorance<s n="n"/></l><r>ignorância<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>illness<s n="n"/></l><r>doença<s n="n"/><s n="f"/></r></p></e>
@@ -1948,7 +1948,7 @@
 <e><p><l>illustration<s n="n"/></l><r>ilustração<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>illustrator<s n="n"/></l><r>ilustrador<s n="n"/></r></p></e>
 <e><p><l>image<s n="n"/></l><r>imagem<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>immigrant<s n="n"/></l><r>imigrante<s n="n"/></r></p></e>
+<e><p><l>immigrant<s n="n"/></l><r>imigrante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>immigration<s n="n"/></l><r>imigração<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>impact<s n="n"/></l><r>impacto<s n="n"/></r></p></e>
 <e><p><l>impatience<s n="n"/></l><r>impaciência<s n="n"/><s n="f"/></r></p></e>
@@ -1989,7 +1989,7 @@
 <e><p><l>influence<s n="n"/></l><r>influência<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>information<s n="n"/></l><r>informação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>infrastructure<s n="n"/></l><r>infra-estrutura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>inhabitant<s n="n"/></l><r>habitante<s n="n"/></r></p></e>
+<e><p><l>inhabitant<s n="n"/></l><r>habitante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>inhabitant<s n="n"/></l><r>morador<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>inhabitant<s n="n"/></l><r>morador<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>inhalation<s n="n"/></l><r>inalação<s n="n"/><s n="f"/></r></p></e>
@@ -2036,7 +2036,7 @@
 <e><p><l>internet<s n="n"/></l><r>a_internet<s n="n"/></r></p></e>
 <e><p><l>internet<s n="n"/></l><r>internet<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>interpretation<s n="n"/></l><r>interpretação<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>interpreter<s n="n"/></l><r>intérprete<s n="n"/></r></p></e>
+<e><p><l>interpreter<s n="n"/></l><r>intérprete<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>interrogation<s n="n"/></l><r>inquérito<s n="n"/></r></p></e>
 <e><p><l>interrogation<s n="n"/></l><r>interrogatório<s n="n"/></r></p></e>
 <e><p><l>interruption<s n="n"/></l><r>interrupção<s n="n"/><s n="f"/></r></p></e>
@@ -2052,7 +2052,7 @@
 <e><p><l>inventor<s n="n"/></l><r>inventor<s n="n"/></r></p></e>
 <e><p><l>investigation<s n="n"/></l><r>investigação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>investigation<s n="n"/></l><r>pesquisa<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>investigator<s n="n"/></l><r>detective<s n="n"/></r></p></e>
+<e><p><l>investigator<s n="n"/></l><r>detective<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>investment<s n="n"/></l><r>investimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>investor<s n="n"/></l><r>investidor<s n="n"/></r></p></e>
 <e><p><l>invitation<s n="n"/></l><r>convite<s n="n"/><s n="m"/></r></p></e>
@@ -2076,7 +2076,7 @@
 <e><p><l>joint<s n="n"/></l><r>junta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>journal<s n="n"/></l><r>revista<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>journalism<s n="n"/></l><r>jornalismo<s n="n"/></r></p></e>
-<e><p><l>journalist<s n="n"/></l><r>jornalista<s n="n"/></r></p></e>
+<e><p><l>journalist<s n="n"/></l><r>jornalista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>journey<s n="n"/></l><r>viagem<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>joy<s n="n"/></l><r>alegria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>judge<s n="n"/></l><r>juiz<s n="n"/></r></p></e>
@@ -2088,7 +2088,7 @@
 <e><p><l>jump<s n="n"/></l><r>salto<s n="n"/></r></p></e>
 <e><p><l>jumper<s n="n"/></l><r>camisola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>jungle<s n="n"/></l><r>selva<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>junior<s n="n"/></l><r>jovem<s n="n"/></r></p></e>
+<e><p><l>junior<s n="n"/></l><r>jovem<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>jury<s n="n"/></l><r>júri<s n="n"/></r></p></e>
 <e><p><l>justice<s n="n"/></l><r>justiça<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>justification<s n="n"/></l><r>justificativa<s n="n"/><s n="f"/></r></p></e>
@@ -2147,8 +2147,8 @@
 <e><p><l>layer<s n="n"/></l><r>camada<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>layer<s n="n"/></l><r>capa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lead<s n="n"/></l><r>vantagem<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>leader<s n="n"/></l><r>dirigente<s n="n"/></r></p></e>
-<e><p><l>leader<s n="n"/></l><r>líder<s n="n"/></r></p></e>
+<e><p><l>leader<s n="n"/></l><r>dirigente<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>leader<s n="n"/></l><r>líder<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>leadership<s n="n"/></l><r>liderança<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>leaf<s n="n"/></l><r>folha<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>leap<s n="n"/></l><r>salto<s n="n"/></r></p></e>
@@ -2209,7 +2209,7 @@
 <e><p><l>lorry<s n="n"/></l><r>caminhão<s n="n"/></r></p></e>
 <e><p><l>loss<s n="n"/></l><r>perda<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>love<s n="n"/></l><r>amor<s n="n"/></r></p></e>
-<e><p><l>lover<s n="n"/></l><r>amante<s n="n"/></r></p></e>
+<e><p><l>lover<s n="n"/></l><r>amante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>luck<s n="n"/></l><r>sorte<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lucre<s n="n"/></l><r>lucro<s n="n"/></r></p></e>
 <e><p><l>luggage<s n="n"/></l><r>bagagem<s n="n"/><s n="f"/></r></p></e>
@@ -2232,7 +2232,7 @@
 <e><p><l>maintenance<s n="n"/></l><r>manutenção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>majority<s n="n"/></l><r>maioria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>make<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>maker<s n="n"/></l><r>fabricante<s n="n"/></r></p></e>
+<e><p><l>maker<s n="n"/></l><r>fabricante<s n="n"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>male<s n="n"/></l><r>homem<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>maliciousness<s n="n"/><s n="sg"/></l><r>maldade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>maltreatment<s n="n"/></l><r>mau-trato<s n="n"/></r></p></e>
@@ -2241,7 +2241,7 @@
 <e><p><l>management<s n="n"/></l><r>administração<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>management<s n="n"/><s n="sg"/></l><r>gestão<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>manager<s n="n"/></l><r>director<s n="n"/></r></p></e>
-<e><p><l>manager<s n="n"/></l><r>responsável<s n="n"/></r></p></e>
+<e><p><l>manager<s n="n"/></l><r>responsável<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>mandator<s n="n"/></l><r>mandatário<s n="n"/></r></p></e>
 <e><p><l>manipulation<s n="n"/></l><r>manipulação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mankind<s n="n"/></l><r>humanidade<s n="n"/><s n="f"/></r></p></e>
@@ -2251,7 +2251,7 @@
 <e><p><l>manoeuvre<s n="n"/></l><r>manobra<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mantle<s n="n"/></l><r>manto<s n="n"/></r></p></e>
 <e><p><l>manufacture<s n="n"/></l><r>fabricação<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>manufacturer<s n="n"/></l><r>fabricante<s n="n"/></r></p></e>
+<e><p><l>manufacturer<s n="n"/></l><r>fabricante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>manufacturing<s n="n"/></l><r>fabricação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>manuscript<s n="n"/></l><r>manuscrito<s n="n"/></r></p></e>
 <e><p><l>map<s n="n"/></l><r>mapa<s n="n"/></r></p></e>
@@ -2286,7 +2286,7 @@
 <e><p><l>master<s n="n"/><s n="pl"/></l><r>maestro<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
 <e><p><l>match<s n="n"/></l><r>partido<s n="n"/></r></p></e>
 <e><p><l>mate<s n="n"/></l><r>colega<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>material<s n="n"/></l><r>material<s n="n"/></r></p></e>
+<e><p><l>material<s n="n"/></l><r>material<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>matter<s n="n"/></l><r>assunto<s n="n"/></r></p></e>
 <e><p><l>matter<s n="n"/></l><r>matéria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>maturity<s n="n"/></l><r>maturidade<s n="n"/><s n="f"/></r></p></e>
@@ -2322,11 +2322,11 @@
 <e><p><l>midnight<s n="n"/></l><r>meia-noite<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mile<s n="n"/></l><r>milha<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>milestone<s n="n"/></l><r>meta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>militant<s n="n"/></l><r>militante<s n="n"/></r></p></e>
+<e><p><l>militant<s n="n"/></l><r>militante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>milk<s n="n"/></l><r>leite<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>millennium<s n="n"/></l><r>milénio<s n="n"/></r></p></e>
 <e><p><l>millennium<s n="n"/></l><r>milênio<s n="n"/></r></p></e>
-<e><p><l>million<s n="n"/></l><r>milhão<s n="n"/></r></p></e>
+<e><p><l>million<s n="n"/></l><r>milhão<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>millionaire<s n="n"/></l><r>milionário<s n="n"/></r></p></e>
 <e><p><l>mind<s n="n"/></l><r>mente<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mine<s n="n"/></l><r>mina<s n="n"/><s n="f"/></r></p></e>
@@ -2342,7 +2342,7 @@
 <e><p><l>minister<s n="n"/><s n="pl"/></l><r>ministro<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>minister<s n="n"/><s n="pl"/></l><r>ministro<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
 <e><p><l>ministry<s n="n"/></l><r>ministério<s n="n"/></r></p></e>
-<e><p><l>minor<s n="n"/></l><r>menor<s n="n"/></r></p></e>
+<e><p><l>minor<s n="n"/></l><r>menor<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>minute<s n="n"/></l><r>minuto<s n="n"/></r></p></e>
 <e><p><l>miracle<s n="n"/></l><r>milagre<s n="n"/></r></p></e>
 <e><p><l>mirror<s n="n"/></l><r>espelho<s n="n"/></r></p></e>
@@ -2353,13 +2353,13 @@
 <e><p><l>mobilization<s n="n"/></l><r>mobilização<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mode<s n="n"/></l><r>modo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mode<s n="n"/></l><r>moda<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>model<s n="n"/></l><r>modelo<s n="n"/></r></p></e>
+<e><p><l>model<s n="n"/></l><r>modelo<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>modernization<s n="n"/></l><r>modernização<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>modification<s n="n"/></l><r>modificação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>module<s n="n"/></l><r>módulo<s n="n"/></r></p></e>
 <e><p><l>molecule<s n="n"/></l><r>molécula<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>moment<s n="n"/></l><r>momento<s n="n"/></r></p></e>
-<e><p><l>monarch<s n="n"/></l><r>monarca<s n="n"/></r></p></e>
+<e><p><l>monarch<s n="n"/></l><r>monarca<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>monitoring<s n="n"/></l><r>controle<s n="n"/></r></p></e>
 <e><p><l>monk<s n="n"/></l><r>monge<s n="n"/></r></p></e>
 <e><p><l>monopoly<s n="n"/></l><r>monopólio<s n="n"/></r></p></e>
@@ -2470,7 +2470,7 @@
 <e><p><l>obstinacy<s n="n"/></l><r>obstinação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>occasion<s n="n"/></l><r>ocasião<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>occident<s n="n"/></l><r>ocidente<s n="n"/></r></p></e>
-<e><p><l>occupant<s n="n"/></l><r>ocupante<s n="n"/></r></p></e>
+<e><p><l>occupant<s n="n"/></l><r>ocupante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>occupation<s n="n"/></l><r>emprego<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>occupation<s n="n"/></l><r>ocupação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ocean<s n="n"/></l><r>oceano<s n="n"/></r></p></e>
@@ -2480,8 +2480,8 @@
 <e><p><l>offence<s n="n"/></l><r>delito<s n="n"/></r></p></e>
 <e><p><l>offer<s n="n"/></l><r>oferta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>office<s n="n"/></l><r>escritório<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>officer<s n="n"/></l><r>agente<s n="n"/></r></p></e>
-<e><p><l>official<s n="n"/></l><r>oficial<s n="n"/></r></p></e>
+<e><p><l>officer<s n="n"/></l><r>agente<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>official<s n="n"/></l><r>oficial<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>oil<s n="n"/></l><r>azeite<s n="n"/></r></p></e>
 <e><p><l>oil<s n="n"/></l><r>óleo<s n="n"/></r></p></e>
 <e><p><l>oil<s n="n"/></l><r>petróleo<s n="n"/></r></p></e>
@@ -2512,7 +2512,7 @@
 <e><p><l>outline<s n="n"/></l><r>esquema<s n="n"/></r></p></e>
 <e><p><l>output<s n="n"/></l><r>produção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>output<s n="n"/></l><r>saída<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>outside<s n="n"/></l><r>exterior<s n="n"/></r></p></e>
+<e><p><l>outside<s n="n"/></l><r>exterior<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>oven<s n="n"/></l><r>estufa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>oven<s n="n"/></l><r>forno<s n="n"/></r></p></e>
 <e><p><l>owner<s n="n"/></l><r>dono<s n="n"/><s n="f"/></r></p></e>
@@ -2534,7 +2534,7 @@
 <e><p><l>paint<s n="n"/></l><r>pintura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>painter<s n="n"/></l><r>pintor<s n="n"/></r></p></e>
 <e><p><l>painting<s n="n"/></l><r>pintura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>pair<s n="n"/></l><r>par<s n="n"/></r></p></e>
+<e><p><l>pair<s n="n"/></l><r>par<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>palace<s n="n"/></l><r>palácio<s n="n"/></r></p></e>
 <e><p><l>panel<s n="n"/></l><r>tabuleiro<s n="n"/></r></p></e>
 <e><p><l>panic<s n="n"/></l><r>pânico<s n="n"/></r></p></e>
@@ -2552,7 +2552,7 @@
 <e><p><l>parking<s n="n"/></l><r>estacionamento<s n="n"/></r></p></e>
 <e><p><l>parliament<s n="n"/></l><r>parlamento<s n="n"/></r></p></e>
 <e><p><l>part<s n="n"/></l><r>parte<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>participant<s n="n"/></l><r>participante<s n="n"/></r></p></e>
+<e><p><l>participant<s n="n"/></l><r>participante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>participation<s n="n"/></l><r>participação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>particle<s n="n"/></l><r>partícula<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>partner<s n="n"/></l><r>colega<s n="n"/><s n="mf"/></r></p></e>
@@ -2573,7 +2573,7 @@
 <e><p><l>path<s n="n"/></l><r>trajetória<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>path<s n="n"/></l><r>caminho<s n="n"/></r></p></e>
 <e><p><l>patience<s n="n"/></l><r>paciência<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>patient<s n="n"/></l><r>paciente<s n="n"/></r></p></e>
+<e><p><l>patient<s n="n"/></l><r>paciente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>patriarch<s n="n"/></l><r>patriarca<s n="n"/></r></p></e>
 <e><p><l>patrol<s n="n"/></l><r>patrulha<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pattern<s n="n"/></l><r>patrão<s n="n"/></r></p></e>
@@ -2597,7 +2597,7 @@
 <e><p><l>performance<s n="n"/></l><r>auto<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>performance<s n="n"/></l><r>rendimento<s n="n"/></r></p></e>
 <e><p><l>performance<s n="n"/></l><r>interpretação<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>performer<s n="n"/></l><r>intérprete<s n="n"/></r></p></e>
+<e><p><l>performer<s n="n"/></l><r>intérprete<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>perfume<s n="n"/></l><r>perfume<s n="n"/></r></p></e>
 <e><p><l>period<s n="n"/></l><r>época<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>period<s n="n"/></l><r>período<s n="n"/></r></p></e>
@@ -2609,7 +2609,7 @@
 <e><p><l>person<s n="n"/><s n="pl"/></l><r>gente<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>person<s n="n"/></l><r>pessoa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>personality<s n="n"/></l><r>personalidade<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>personnel<s n="n"/><s n="pl"/></l><r>pessoal<s n="n"/></r></p></e>
+<e><p><l>personnel<s n="n"/><s n="pl"/></l><r>pessoal<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>perspective<s n="n"/></l><r>perspectiva<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>peseta<s n="n"/></l><r>peseta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>petrol<s n="n"/></l><r>gasolina<s n="n"/><s n="f"/></r></p></e>
@@ -2628,7 +2628,7 @@
 <e><p><l>pig<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>pigeon<s n="n"/></l><r>pombo<s n="n"/></r></p></e>
 <e><p><l>pilgrim<s n="n"/></l><r>peregrino<s n="n"/></r></p></e>
-<e><p><l>pilot<s n="n"/></l><r>piloto<s n="n"/></r></p></e>
+<e><p><l>pilot<s n="n"/></l><r>piloto<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>pink<s n="n"/></l><r>rosa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pipe<s n="n"/></l><r>conduto<s n="n"/></r></p></e>
 <e><p><l>pitch<s n="n"/></l><r>tom<s n="n"/></r></p></e>
@@ -2653,7 +2653,7 @@
 <e><p><l>plate<s n="n"/></l><r>placa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>platform<s n="n"/></l><r>plataforma<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>play<s n="n"/></l><r>jogo<s n="n"/></r></p></e>
-<e><p><l>player<s n="n"/></l><r>intérprete<s n="n"/></r></p></e>
+<e><p><l>player<s n="n"/></l><r>intérprete<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>player<s n="n"/></l><r>jogador<s n="n"/></r></p></e>
 <e><p><l>playground<s n="n"/></l><r>pátio<s n="n"/></r></p></e>
 <e><p><l>playground<s n="n"/></l><r>quintal<s n="n"/></r></p></e>
@@ -2671,12 +2671,12 @@
 <e><p><l>poison<s n="n"/></l><r>veneno<s n="n"/></r></p></e>
 <e><p><l>pole<s n="n"/></l><r>pólo<s n="n"/></r></p></e>
 <e><p><l>pole<s n="n"/></l><r>pau<s n="n"/></r></p></e>
-<e><p><l>police<s n="n"/><s n="pl"/></l><r>policial<s n="n"/></r></p></e>
-<e><p><l>police<s n="n"/><s n="pl"/></l><r>polícia<s n="n"/></r></p></e>
-<e><p><l>policeman<s n="n"/></l><r>policial<s n="n"/></r></p></e>
-<e><p><l>policeman<s n="n"/></l><r>polícia<s n="n"/></r></p></e>
-<e><p><l>policeman<s n="n"/></l><r>guarda<s n="n"/></r></p></e>
-<e><p><l>policewoman<s n="n"/></l><r>polícia<s n="n"/></r></p></e>
+<e><p><l>police<s n="n"/><s n="pl"/></l><r>policial<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>police<s n="n"/><s n="pl"/></l><r>polícia<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>policeman<s n="n"/></l><r>policial<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>policeman<s n="n"/></l><r>polícia<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>policeman<s n="n"/></l><r>guarda<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>policewoman<s n="n"/></l><r>polícia<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>politician<s n="n"/></l><r>político<s n="n"/></r></p></e>
 <e><p><l>pollution<s n="n"/></l><r>contaminação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pomegranate<s n="n"/></l><r>granada<s n="n"/><s n="f"/></r></p></e>
@@ -2703,10 +2703,10 @@
 <e><p><l>power<s n="n"/></l><r>energia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>power<s n="n"/></l><r>poder<s n="n"/></r></p></e>
 <e><p><l>practice<s n="n"/></l><r>prática<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>practitioner<s n="n"/></l><r>praticante<s n="n"/></r></p></e>
+<e><p><l>practitioner<s n="n"/></l><r>praticante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>praise<s n="n"/></l><r>elogio<s n="n"/></r></p></e>
 <e><p><l>prayer<s n="n"/></l><r>oração<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>precedent<s n="n"/></l><r>precedente<s n="n"/></r></p></e>
+<e><p><l>precedent<s n="n"/></l><r>precedente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>precipitation<s n="n"/></l><r>precipitação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>prediction<s n="n"/></l><r>predição<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>preference<s n="n"/></l><r>preferência<s n="n"/><s n="f"/></r></p></e>
@@ -2715,7 +2715,7 @@
 <e><p><l>première<s n="n"/></l><r>estréia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>preparation<s n="n"/></l><r>preparação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>presence<s n="n"/></l><r>presença<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>present<s n="n"/></l><r>presente<s n="n"/></r></p></e>
+<e><p><l>present<s n="n"/></l><r>presente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>presentation<s n="n"/></l><r>apresentação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>preservative<s n="n"/></l><r>conservante<s n="n"/></r></p></e>
 <e><p><l>presidency<s n="n"/></l><r>presidência<s n="n"/><s n="f"/></r></p></e>
@@ -2755,7 +2755,7 @@
 <e><p><l>product<s n="n"/></l><r>produto<s n="n"/></r></p></e>
 <e><p><l>production<s n="n"/></l><r>produção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>profession<s n="n"/></l><r>profissão<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>professional<s n="n"/></l><r>profissional<s n="n"/></r></p></e>
+<e><p><l>professional<s n="n"/></l><r>profissional<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>professor<s n="n"/></l><r>professor<s n="n"/></r></p></e>
 <e><p><l>profile<s n="n"/></l><r>perfil<s n="n"/></r></p></e>
 <e><p><l>profit<s n="n"/></l><r>benefício<s n="n"/></r></p></e>
@@ -2779,14 +2779,14 @@
 <e><p><l>proof<s n="n"/></l><r>prova<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>propaganda<s n="n"/></l><r>propaganda<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>property<s n="n"/></l><r>propriedade<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>prophet<s n="n"/></l><r>profeta<s n="n"/></r></p></e>
+<e><p><l>prophet<s n="n"/></l><r>profeta<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>proportion<s n="n"/></l><r>proporção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>proposal<s n="n"/></l><r>proposta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>prospect<s n="n"/></l><r>perspectiva<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>prosperity<s n="n"/></l><r>prosperidade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>prostitute<s n="n"/></l><r>prostituta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>prostitution<s n="n"/></l><r>prostituição<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>protagonist<s n="n"/></l><r>protagonista<s n="n"/></r></p></e>
+<e><p><l>protagonist<s n="n"/></l><r>protagonista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>protection<s n="n"/></l><r>protecção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>protection<s n="n"/></l><r>proteção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>protein<s n="n"/></l><r>proteína<s n="n"/><s n="f"/></r></p></e>
@@ -2873,7 +2873,7 @@
 <e><p><l>realization<s n="n"/></l><r>realização<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>reason<s n="n"/></l><r>motivo<s n="n"/></r></p></e>
 <e><p><l>reason<s n="n"/></l><r>razão<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>rebel<s n="n"/></l><r>rebelde<s n="n"/></r></p></e>
+<e><p><l>rebel<s n="n"/></l><r>rebelde<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>receipt<s n="n"/></l><r>recepção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>reception<s n="n"/></l><r>recepção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>receptor<s n="n"/></l><r>receptor<s n="n"/></r></p></e>
@@ -2892,7 +2892,7 @@
 <e><p><l>reference<s n="n"/></l><r>referência<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>referendum<s n="n"/></l><r>referendo<s n="n"/></r></p></e>
 <e><p><l>referendum<s n="n"/></l><r>referendum<s n="n"/></r></p></e>
-<e><p><l>referent<s n="n"/></l><r>referente<s n="n"/></r></p></e>
+<e><p><l>referent<s n="n"/></l><r>referente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>refill<s n="n"/></l><r>troca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>reflection<s n="n"/></l><r>reflexão<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>reform<s n="n"/></l><r>reforma<s n="n"/><s n="f"/></r></p></e>
@@ -2925,7 +2925,7 @@
 <e><p><l>report<s n="n"/></l><r>relatório<s n="n"/></r></p></e>
 <e><p><l>reporter<s n="n"/></l><r>repórter<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>representation<s n="n"/></l><r>representação<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>representative<s n="n"/></l><r>representante<s n="n"/></r></p></e>
+<e><p><l>representative<s n="n"/></l><r>representante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>repression<s n="n"/></l><r>repressão<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>reprisal<s n="n"/></l><r>represália<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>reproduction<s n="n"/></l><r>reprodução<s n="n"/><s n="f"/></r></p></e>
@@ -2986,7 +2986,7 @@
 <e><p><l>rise<s n="n"/></l><r>aumento<s n="n"/></r></p></e>
 <e><p><l>rise<s n="n"/></l><r>subida<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>risk<s n="n"/></l><r>risco<s n="n"/></r></p></e>
-<e><p><l>rival<s n="n"/></l><r>rival<s n="n"/></r></p></e>
+<e><p><l>rival<s n="n"/></l><r>rival<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>river<s n="n"/></l><r>rio<s n="n"/></r></p></e>
 <e><p><l>road<s n="n"/></l><r>estrada<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>road<s n="n"/></l><r>rodovia<s n="n"/><s n="f"/></r></p></e>
@@ -3059,7 +3059,7 @@
 <e><p><l>script<s n="n"/></l><r>guião<s n="n"/></r></p></e>
 <e><p><l>script<s n="n"/></l><r>roteiro<s n="n"/></r></p></e>
 <e><p><l>sea<s n="n"/></l><r>mar<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>seafarer<s n="n"/></l><r>navegante<s n="n"/></r></p></e>
+<e><p><l>seafarer<s n="n"/></l><r>navegante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>seal<s n="n"/></l><r>selo<s n="n"/></r></p></e>
 <e><p><l>search<s n="n"/></l><r>busca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>season<s n="n"/></l><r>estação<s n="n"/><s n="f"/></r></p></e>
@@ -3108,8 +3108,8 @@
 <e><p><l>shame<s n="n"/></l><r>vergonha<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>shape<s n="n"/></l><r>forma<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>share<s n="n"/></l><r>participação<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>shareholder<s n="n"/></l><r>accionista<s n="n"/></r></p></e>
-<e><p><l>shareholder<s n="n"/></l><r>acionista<s n="n"/></r></p></e>
+<e><p><l>shareholder<s n="n"/></l><r>accionista<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>shareholder<s n="n"/></l><r>acionista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>sheep<s n="n"/></l><r>ovelha<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>sheet<s n="n"/></l><r>folha<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>shelter<s n="n"/></l><r>refúgio<s n="n"/></r></p></e>
@@ -3166,7 +3166,7 @@
 <e><p><l>slice<s n="n"/></l><r>corte<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>slope<s n="n"/></l><r>subida<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>slope<s n="n"/></l><r>vertente<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>slope<s n="n"/></l><r>pendente<s n="n"/></r></p></e>
+<e><p><l>slope<s n="n"/></l><r>pendente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>slowness<s n="n"/></l><r>lentidão<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>slump<s n="n"/></l><r>recessão<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>smash<s n="n"/></l><r>choque<s n="n"/></r></p></e>
@@ -3178,7 +3178,7 @@
 <e><p><l>smoke<s n="n"/></l><r>fumaça<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>snake<s n="n"/></l><r>serpente<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>snow<s n="n"/></l><r>neve<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>socialist<s n="n"/></l><r>socialista<s n="n"/></r></p></e>
+<e><p><l>socialist<s n="n"/></l><r>socialista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>society<s n="n"/></l><r>sociedade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>sock<s n="n"/></l><r>meia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>softness<s n="n"/></l><r>macieza<s n="n"/><s n="f"/></r></p></e>
@@ -3208,9 +3208,9 @@
 <e><p><l>space<s n="n"/></l><r>espaço<s n="n"/></r></p></e>
 <e><p><l>spare<s n="n"/></l><r>troca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>speaker<s n="n"/></l><r>interlocutor<s n="n"/></r></p></e>
-<e><p><l>speaker<s n="n"/></l><r>palestrante<s n="n"/></r></p></e>
+<e><p><l>speaker<s n="n"/></l><r>palestrante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>speaker<s n="n"/></l><r>poente<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>specialist<s n="n"/></l><r>especialista<s n="n"/></r></p></e>
+<e><p><l>specialist<s n="n"/></l><r>especialista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>species<s n="n"/></l><r>espécie<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>spectrum<s n="n"/></l><r>espectro<s n="n"/></r></p></e>
 <e><p><l>speculation<s n="n"/></l><r>especulação<s n="n"/><s n="f"/></r></p></e>
@@ -3223,11 +3223,11 @@
 <e><p><l>spirit<s n="n"/></l><r>espírito<s n="n"/></r></p></e>
 <e><p><l>splendour<s n="n"/></l><r>esplendor<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>split<s n="n"/></l><r>ruptura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>spokesman<s n="n"/></l><r>porta-voz<s n="n"/></r></p></e>
-<e><p><l>spokeswoman<s n="n"/></l><r>porta-voz<s n="n"/></r></p></e>
+<e><p><l>spokesman<s n="n"/></l><r>porta-voz<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>spokeswoman<s n="n"/></l><r>porta-voz<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>sport<s n="n"/></l><r>desporto<s n="n"/></r></p></e>
 <e><p><l>sport<s n="n"/></l><r>esporte<s n="n"/></r></p></e>
-<e><p><l>sportsman<s n="n"/></l><r>desportista<s n="n"/></r></p></e>
+<e><p><l>sportsman<s n="n"/></l><r>desportista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>spot<s n="n"/></l><r>lugar<s n="n"/></r></p></e>
 <e><p><l>spot<s n="n"/></l><r>mancha<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>spot<s n="n"/></l><r>grão<s n="n"/></r></p></e>
@@ -3235,8 +3235,8 @@
 <e><p><l>spring<s n="n"/></l><r>primavera<s n="n"/></r></p></e>
 <e><p><l>square<s n="n"/></l><r>praça<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stadium<s n="n"/></l><r>estádio<s n="n"/></r></p></e>
-<e><p><l>staff<s n="n"/><s n="sg"/></l><r>pessoal<s n="n"/></r></p></e>
-<e><p><l>staff<s n="n"/><s n="pl"/></l><r>pessoal<s n="n"/></r></p></e>
+<e><p><l>staff<s n="n"/><s n="sg"/></l><r>pessoal<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>staff<s n="n"/><s n="pl"/></l><r>pessoal<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>stage<s n="n"/></l><r>cenário<s n="n"/></r></p></e>
 <e><p><l>stage<s n="n"/></l><r>palco<s n="n"/></r></p></e>
 <e><p><l>stage<s n="n"/></l><r>etapa<s n="n"/><s n="f"/></r></p></e>
@@ -3272,7 +3272,7 @@
 <e><p><l>stink<s n="n"/></l><r>fedor<s n="n"/></r></p></e>
 <e><p><l>stink<s n="n"/></l><r>pejo<s n="n"/></r></p></e>
 <e><p><l>stink<s n="n"/></l><r>pudor<s n="n"/></r></p></e>
-<e><p><l>stockholder<s n="n"/></l><r>accionista<s n="n"/></r></p></e>
+<e><p><l>stockholder<s n="n"/></l><r>accionista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>stomach<s n="n"/></l><r>estômago<s n="n"/></r></p></e>
 <e><p><l>stone<s n="n"/></l><r>osso<s n="n"/></r></p></e>
 <e><p><l>store<s n="n"/></l><r>loja<s n="n"/><s n="f"/></r></p></e>
@@ -3309,7 +3309,7 @@
 <e><p><l>studio<s n="n"/></l><r>estúdio<s n="n"/></r></p></e>
 <e><p><l>study<s n="n"/></l><r>estudo<s n="n"/></r></p></e>
 <e><p><l>study<s n="n"/></l><r>estúdio<s n="n"/></r></p></e>
-<e><p><l>stuff<s n="n"/></l><r>material<s n="n"/></r></p></e>
+<e><p><l>stuff<s n="n"/></l><r>material<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>stupidity<s n="n"/></l><r>burrice<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stupidity<s n="n"/></l><r>estupidez<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>style<s n="n"/></l><r>estilo<s n="n"/></r></p></e>
@@ -3381,7 +3381,7 @@
 <e><p><l>tax<s n="n"/></l><r>imposto<s n="n"/></r></p></e>
 <e><p><l>taxation<s n="n"/></l><r>imposto<s n="n"/></r></p></e>
 <e><p><l>taxi<s n="n"/></l><r>táxi<s n="n"/></r></p></e>
-<e><p><l>taxpayer<s n="n"/></l><r>contribuinte<s n="n"/></r></p></e>
+<e><p><l>taxpayer<s n="n"/></l><r>contribuinte<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>tea<s n="n"/></l><r>chá<s n="n"/></r></p></e>
 <e><p><l>teacher<s n="n"/></l><r>maestro<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>teaching<s n="n"/></l><r>ensinamento<s n="n"/><s n="f"/></r></p></e>
@@ -3391,7 +3391,7 @@
 <e><p><l>team<s n="n"/></l><r>time<s n="n"/></r></p></e>
 <e><p><l>tear<s n="n"/></l><r>lágrima<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>technician<s n="n"/></l><r>técnico<s n="n"/></r></p></e>
-<e><p><l>teenager<s n="n"/></l><r>adolescente<s n="n"/></r></p></e>
+<e><p><l>teenager<s n="n"/></l><r>adolescente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>telecommunication<s n="n"/></l><r>telecomunicação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>telephone<s n="n"/></l><r>telefone<s n="n"/></r></p></e>
 <e><p><l>telescope<s n="n"/></l><r>telescópio<s n="n"/></r></p></e>
@@ -3403,7 +3403,7 @@
 <e><p><l>tendency<s n="n"/></l><r>tendência<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tender<s n="n"/></l><r>oferta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tennis<s n="n"/></l><r>tênis<s n="n"/></r></p></e>
-<e><p><l>tennist<s n="n"/></l><r>tenista<s n="n"/></r></p></e>
+<e><p><l>tennist<s n="n"/></l><r>tenista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>tension<s n="n"/></l><r>tensão<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>term<s n="n"/></l><r>termo<s n="n"/></r></p></e>
 <e><p><l>term<s n="n"/></l><r>término<s n="n"/></r></p></e>
@@ -3413,7 +3413,7 @@
 <e><p><l>territory<s n="n"/></l><r>território<s n="n"/></r></p></e>
 <e><p><l>terror<s n="n"/></l><r>terror<s n="n"/></r></p></e>
 <e><p><l>terrorism<s n="n"/></l><r>terrorismo<s n="n"/></r></p></e>
-<e><p><l>terrorist<s n="n"/></l><r>terrorista<s n="n"/></r></p></e>
+<e><p><l>terrorist<s n="n"/></l><r>terrorista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>test<s n="n"/></l><r>teste<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>test<s n="n"/></l><r>prova<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>text<s n="n"/></l><r>texto<s n="n"/></r></p></e>
@@ -3468,10 +3468,10 @@
 <e><p><l>topic<s n="n"/></l><r>tema<s n="n"/></r></p></e>
 <e><p><l>torrent<s n="n"/></l><r>torrente<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>torture<s n="n"/></l><r>tortura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>total<s n="n"/></l><r>total<s n="n"/></r></p></e>
+<e><p><l>total<s n="n"/></l><r>total<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>tour<s n="n"/></l><r>visita<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tourism<s n="n"/></l><r>turismo<s n="n"/></r></p></e>
-<e><p><l>tourist<s n="n"/></l><r>turista<s n="n"/></r></p></e>
+<e><p><l>tourist<s n="n"/></l><r>turista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>tournament<s n="n"/></l><r>torneio<s n="n"/></r></p></e>
 <e><p><l>tower<s n="n"/></l><r>torre<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>town<s n="n"/></l><r>cidade<s n="n"/><s n="f"/></r></p></e>
@@ -3483,13 +3483,13 @@
 <e><p><l>track<s n="n"/></l><r>pista<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>trade<s n="n"/></l><r>comércio<s n="n"/></r></p></e>
 <e><p><l>trademark<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>trader<s n="n"/></l><r>comerciante<s n="n"/></r></p></e>
+<e><p><l>trader<s n="n"/></l><r>comerciante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>trading<s n="n"/></l><r>comércio<s n="n"/></r></p></e>
 <e><p><l>tradition<s n="n"/></l><r>tradição<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>traffic<s n="n"/></l><r>trânsito<s n="n"/></r></p></e>
 <e><p><l>traffic<s n="n"/></l><r>tráfego<s n="n"/></r></p></e>
 <e><p><l>traffic<s n="n"/></l><r>tráfico<s n="n"/></r></p></e>
-<e><p><l>trafficker<s n="n"/></l><r>traficante<s n="n"/></r></p></e>
+<e><p><l>trafficker<s n="n"/></l><r>traficante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>trafficking<s n="n"/></l><r>tráfico<s n="n"/></r></p></e>
 <e><p><l>tragedy<s n="n"/></l><r>tragédia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>train<s n="n"/></l><r>comboio<s n="n"/></r></p></e>
@@ -3526,7 +3526,7 @@
 <e><p><l>tribe<s n="n"/></l><r>tribo<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tribute<s n="n"/></l><r>tributo<s n="n"/></r></p></e>
 <e><p><l>trick<s n="n"/></l><r>truque<s n="n"/></r></p></e>
-<e><p><l>trillion<s n="n"/></l><r>bilião<s n="n"/></r></p></e>
+<e><p><l>trillion<s n="n"/></l><r>bilião<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>trip<s n="n"/></l><r>viagem<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>triumph<s n="n"/></l><r>triunfo<s n="n"/></r></p></e>
 <e><p><l>troop<s n="n"/></l><r>tropa<s n="n"/><s n="f"/></r></p></e>
@@ -3594,7 +3594,7 @@
 <e><p><l>vehicle<s n="n"/></l><r>viatura<s n="n"/></r></p></e>
 <e><p><l>velocity<s n="n"/></l><r>velocidade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>venture<s n="n"/></l><r>aventura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>venue<s n="n"/></l><r>local<s n="n"/></r></p></e>
+<e><p><l>venue<s n="n"/></l><r>local<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>verb<s n="n"/></l><r>verbo<s n="n"/></r></p></e>
 <e><p><l>verse<s n="n"/></l><r>verso<s n="n"/></r></p></e>
 <e><p><l>version<s n="n"/></l><r>versão<s n="n"/><s n="f"/></r></p></e>
@@ -3620,7 +3620,7 @@
 <e><p><l>visibility<s n="n"/></l><r>visibilidade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>vision<s n="n"/></l><r>visão<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>visit<s n="n"/></l><r>visita<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>visitor<s n="n"/></l><r>visitante<s n="n"/></r></p></e>
+<e><p><l>visitor<s n="n"/></l><r>visitante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>vocation<s n="n"/></l><r>vocação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>voice<s n="n"/></l><r>voz<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>volcano<s n="n"/></l><r>vulcão<s n="n"/></r></p></e>
@@ -3640,7 +3640,7 @@
 <e><p><l>warning<s n="n"/></l><r>advertência<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>warrior<s n="n"/></l><r>guerreiro<s n="n"/></r></p></e>
 <e><p><l>watch<s n="n"/></l><r>relógio<s n="n"/></r></p></e>
-<e><p><l>watchdog<s n="n"/></l><r>vigilante<s n="n"/></r></p></e>
+<e><p><l>watchdog<s n="n"/></l><r>vigilante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>watchdog<s n="n"/></l><r>segurança<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>water<s n="n"/></l><r>água<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>wave<s n="n"/></l><r>onda<s n="n"/><s n="f"/></r></p></e>
@@ -3715,7 +3715,7 @@
 <e><p><l>yard<s n="n"/></l><r>quintal<s n="n"/></r></p></e>
 <e><p><l>year<s n="n"/></l><r>ano<s n="n"/></r></p></e>
 <e><p><l>yield<s n="n"/></l><r>colheita<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>youngster<s n="n"/></l><r>jovem<s n="n"/></r></p></e>
+<e><p><l>youngster<s n="n"/></l><r>jovem<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>youth<s n="n"/></l><r>juventude<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>zone<s n="n"/></l><r>zona<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>goodbye<s n="ij"/></l><r>adeus<s n="ij"/></r></p></e>
