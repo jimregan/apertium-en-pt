@@ -1829,10 +1829,10 @@
 <e><p><l>guess<s n="n"/></l><r>suposição<s n="n"/></r></p></e>
 <e><p><l>guest<s n="n"/></l><r>hóspede<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>guesthouse<s n="n"/></l><r>pensão<s n="n"/></r></p></e>
-<e><p><l>guideline<s n="n"/></l><r>directriz<s n="n"/></r></p></e>
-<e><p><l>guideline<s n="n"/></l><r>diretriz<s n="n"/></r></p></e>
+<e vr="pt"><p><l>guideline<s n="n"/></l><r>directriz<s n="n"/></r></p></e>
+<e vr="br"><p><l>guideline<s n="n"/></l><r>diretriz<s n="n"/></r></p></e>
 <e><p><l>gun<s n="n"/></l><r>pistola<s n="n"/></r></p></e>
-<e><p><l>habilitation<s n="n"/></l><r>habilitação<s n="n"/></r></p></e>
+<e><p><l>habilitation<s n="n"/></l><r>habilitação<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>habit<s n="n"/></l><r>costume<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hair<s n="n"/></l><r>cabelo<s n="n"/></r></p></e>
 <e><p><l>half<s n="n"/></l><r>metade<s n="n"/></r></p></e>
@@ -1852,13 +1852,11 @@
 <e><p><l>hate<s n="n"/></l><r>ódio<s n="n"/></r></p></e>
 <e><p><l>hatred<s n="n"/></l><r>aversão<s n="n"/></r></p></e>
 <e><p><l>head<s n="n"/></l><r>cabeça<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>head<s n="n"/></l><r>chefe<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>head<s n="n"/></l><r>chefe<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>head<s n="n"/></l><r>chefe<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>head<s n="n"/></l><r>chefe<s n="n"/></r></p></e>
+<e r="LR"><p><l>head<s n="n"/></l><r>chefe<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>head<s n="n"/></l><r>cabo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>health<s n="n"/></l><r>saúde<s n="n"/></r></p></e>
 <e><p><l>hearing<s n="n"/></l><r>audiência<s n="n"/></r></p></e>
-<e><p><l>hearing<s n="n"/></l><r>vista<s n="n"/></r></p></e>
 <e><p><l>hearing<s n="n"/></l><r>ouvido<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>heart<s n="n"/></l><r>cor<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>heart<s n="n"/></l><r>coração<s n="n"/></r></p></e>
@@ -6879,7 +6877,7 @@
 <e><p><l>firmament<s n="n"/></l><r>firmamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fugue<s n="n"/></l><r>fuga<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fury<s n="n"/></l><r>furia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bodyguard<s n="n"/></l><r>guarda-costas<s n="n"/></r></p></e>
+<e><p><l>bodyguard<s n="n"/></l><r>guarda-costas<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
 <e><p><l>guerrilla<b/>warfare<s n="n"/></l><r>guerrilha<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>guerrilla<b/>warfare<s n="n"/></l><r>guerrilheiro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>emperor<s n="n"/></l><r>imperador<s n="n"/><s n="m"/></r></p></e>
