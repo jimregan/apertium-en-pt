@@ -429,7 +429,7 @@
 <e><p><l>February<s n="n"/></l><r>fevereiro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>French<s n="n"/></l><r>francês<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>Friday<s n="n"/></l><r>sexta-feira<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>GDP<s n="n"/><s n="acr"/></l><r>PIB<s n="n"/></r></p></e>
+<e><p><l>GDP<s n="n"/><s n="acr"/></l><r>PIB<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>German<s n="n"/></l><r>alemão<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>Irish<s n="n"/></l><r>irlandês<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>Israeli<s n="n"/></l><r>israelense<s n="n"/><s n="mf"/></r></p></e>
@@ -861,7 +861,7 @@
 <e><p><l>camp<s n="n"/></l><r>acampamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>camp<s n="n"/></l><r>campo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>campaign<s n="n"/></l><r>campanha<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>campus<s n="n"/></l><r>campus<s n="n"/></r></p></e>
+<e><p><l>campus<s n="n"/></l><r>campus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e v="pt"><p><l>cancer<s n="n"/></l><r>cancro<s n="n"/><s n="m"/></r></p></e>
 <e v="br"><p><l>cancer<s n="n"/></l><r>câncer<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>candidate<s n="n"/></l><r>candidato<s n="n"/><s n="m"/></r></p></e>
@@ -942,7 +942,7 @@
 <e><p><l>change<s n="n"/></l><r>mudança<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>change<s n="n"/></l><r>troca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>channel<s n="n"/></l><r>canal<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>chaos<s n="n"/></l><r>caos<s n="n"/></r></p></e>
+<e><p><l>chaos<s n="n"/></l><r>caos<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>chapter<s n="n"/></l><r>capítulo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>character<s n="n"/></l><r>carácter<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>character<s n="n"/></l><r>caráter<s n="n"/><s n="m"/></r></p></e>
@@ -3402,7 +3402,7 @@
 <e><p><l>ten<s n="n"/><s n="pl"/></l><r>dezena<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tendency<s n="n"/></l><r>tendência<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tender<s n="n"/></l><r>oferta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>tennis<s n="n"/></l><r>tênis<s n="n"/></r></p></e>
+<e><p><l>tennis<s n="n"/></l><r>tênis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>tennist<s n="n"/></l><r>tenista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>tension<s n="n"/></l><r>tensão<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>term<s n="n"/></l><r>termo<s n="n"/><s n="m"/></r></p></e>
@@ -3614,8 +3614,8 @@
 <e><p><l>village<s n="n"/></l><r>povo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>violence<s n="n"/></l><r>violência<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>virtue<s n="n"/></l><r>virtude<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>virus<s n="n"/></l><r>vírus<s n="n"/></r></p></e>
-<e><p><l>virus<s n="n"/><s n="ND"/></l><r>vírus<s n="n"/></r></p></e>
+<e><p><l>virus<s n="n"/></l><r>vírus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e><p><l>virus<s n="n"/><s n="ND"/></l><r>vírus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>visa<s n="n"/></l><r>visto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>visibility<s n="n"/></l><r>visibilidade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>vision<s n="n"/></l><r>visão<s n="n"/><s n="f"/></r></p></e>
